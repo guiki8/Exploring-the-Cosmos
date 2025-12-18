@@ -13,7 +13,7 @@ os quais podem ser explorados e investigados pelo jogador**
 
 I  Nome            I GitHub                                                       I Contato
 <br>I----------------------------------------------------------------------------------
-<br>I Guilherme Bruno  I [github.com/guiki8](https://github.com/guiki8)               I [guiki53u19@gmail.com]
+<br>I Guilherme Bruno  I [github.com/guiki8](https://github.com/guiki8)               I [g.moreirabruno@gmail.com]
 <br>I Abel Cristiano   I [github.com/luccaporfiro](https://github.com/luccaporfiro)   I [luccaporfiro@gmail.com]
 <br>I Lucca Porfiro    I [github.com/AbelCristiano](https://github.com/AbelCristiano) I [abelcristiano453@gmail.com]
 <br>I Bernardo Lemos   I [github.com/bezolemos](https://github.com/bezolemos)         I [belemos1708@gmail.com]
