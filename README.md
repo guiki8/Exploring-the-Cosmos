@@ -1,73 +1,69 @@
-# Explorando o Cosmos
+# Exploring the Cosmos
 
-### Tema do Projeto
-**O tema do projeto é a exploração do cosmos, assim expandindo o conhecimento de astronomia através de um jogo interartivo e atrativo o qual 
-pode gerar um interesse e investimento maior nesta área do conheicmento, apresentando diferentes espaços, como planetas, satélites naturais e cometas, 
-os quais podem ser explorados e investigados pelo jogador**
+### Project Theme
+**The theme of the project is the exploration of the cosmos, expanding knowledge of astronomy through an interactive and engaging game that can generate greater interest and investment in this field of knowledge, presenting different environments such as planets, natural satellites, and comets, which can be explored and investigated by the player.**
 
-### Área do Projeto
+### Project Area
 
-**Ciências da Natureza**
+**Natural Sciences**
 
-## Integrantes
+## Team Members
 
-I  Nome            I GitHub                                                       I Contato
+I  Name              I GitHub                                                       I Contact
 <br>I----------------------------------------------------------------------------------
-<br>I Guilherme Bruno  I [github.com/guiki8](https://github.com/guiki8)               I [g.moreirabruno@gmail.com]
-<br>I Abel Cristiano   I [github.com/luccaporfiro](https://github.com/luccaporfiro)   I [luccaporfiro@gmail.com]
-<br>I Lucca Porfiro    I [github.com/AbelCristiano](https://github.com/AbelCristiano) I [abelcristiano453@gmail.com]
-<br>I Bernardo Lemos   I [github.com/bezolemos](https://github.com/bezolemos)         I [belemos1708@gmail.com]
+<br>I Guilherme Bruno   I [github.com/guiki8](https://github.com/guiki8)               I [g.moreirabruno@gmail.com]
+<br>I Abel Cristiano    I [github.com/luccaporfiro](https://github.com/luccaporfiro)   I [luccaporfiro@gmail.com]
+<br>I Lucca Porfiro     I [github.com/AbelCristiano](https://github.com/AbelCristiano) I [abelcristiano453@gmail.com]
+<br>I Bernardo Lemos    I [github.com/bezolemos](https://github.com/bezolemos)         I [belemos1708@gmail.com]
 
-## Descrição
+## Description
 
-**O intuito principal deste projeto é a gamificação (do inglês gamification) da astronomia, transformando-a em um objeto de estudo mais atrativo e interessante para o público jovem por meio do desenvolvimento de um jogo virtual. A temática central do jogo é a exploração espacial, com o objetivo de educar de maneira criativa e intuitiva sobre as características, peculiaridades e elementos de cada planeta, planetoide, asteroide, entre outros corpos celestes apresentados no projeto.**
+**The main purpose of this project is the gamification of astronomy, transforming it into a more engaging and interesting subject of study for young audiences through the development of a virtual game. The central theme of the game is space exploration, with the objective of creatively and intuitively educating players about the characteristics, peculiarities, and elements of each planet, planetoid, asteroid, and other celestial bodies presented in the project.**
 
- **A importância da astronomia, por sua vez, vai além do simples estudo de corpos celestes. Trata-se de uma ciência que desperta curiosidade, abre horizontes sobre o lugar do ser humano no universo e promove o pensamento crítico. No Brasil, a educação astronômica enfrenta diversos desafios, como a falta de investimentos e a escassez de conteúdos dedicados ao tema no currículo escolar. Essa realidade contesta o vasto potencial da astronomia como uma ferramenta de ensino, capaz de engajar os jovens e introduzi-los a conceitos fundamentais de física, química e matemática.**
+**The importance of astronomy goes beyond the simple study of celestial bodies. It is a science that sparks curiosity, broadens perspectives about humanity’s place in the universe, and promotes critical thinking. In Brazil, astronomy education faces several challenges, such as limited investment and the lack of dedicated content in school curricula. This reality contrasts with the vast potential of astronomy as a teaching tool, capable of engaging young people and introducing them to fundamental concepts of physics, chemistry, and mathematics.**
 
- ## Objetivos
+## Objectives
 
- **Desenvolver** uma aplicação, neste caso um jogo de video-game 2D em Pixel Art, que torne o estudo da astronomia e os contéudos relacionados atrativos e acessíveis para todos os tipos de públicos, assim gerando um interesse e investimento maior na área.<br>
- **Promover** a disseminação destes conhecimentos de forma prática, intuitiva e acessível, assim como trazer mais investimento para este campo do conhecimento.<br>
- **Aprimorar** o conhecimento geral sobre astronomia e outros tópicos relacionados, com o objetivo de engajar a curiosidade do público e assim criar interesse pela pesquisa de diversas áreas do conhecimento.
+**Develop** an application, in this case a 2D Pixel Art video game, that makes the study of astronomy and related content attractive and accessible to all audiences, generating greater interest and investment in the field.<br>
+**Promote** the dissemination of this knowledge in a practical, intuitive, and accessible way, while also encouraging more investment in this area of knowledge.<br>
+**Enhance** general knowledge about astronomy and related topics, with the goal of stimulating curiosity and fostering interest in research across multiple fields of knowledge.
 
- ## Justificativa
+## Justification
 
- **A astronomia não só desperta curiosidade sobre o universo, mas também promove o desenvolvimento de habilidades essenciais, como a análise crítica e o raciocínio lógico. Através do estudo dos corpos celestes, os alunos são incentivados a aplicar conceitos interdisciplinares de física, química e matemática. Este projeto, ao combinar a exploração espacial com mecânicas interativas, permite que o aluno atue como um explorador do conhecimento, resolvendo problemas que simulam situações reais e desenvolvendo habilidades fundamentais para a ciência.**
+**Astronomy not only sparks curiosity about the universe but also promotes the development of essential skills such as critical analysis and logical reasoning. Through the study of celestial bodies, students are encouraged to apply interdisciplinary concepts from physics, chemistry, and mathematics. This project, by combining space exploration with interactive mechanics, allows students to act as explorers of knowledge, solving problems that simulate real situations and developing fundamental skills for science.**
 
-**Este projeto visa preencher essa lacuna na educação brasileira, oferecendo uma experiência de aprendizado imersiva e interativa por meio de um jogo eletrônico. O jogo não se limita a transmitir informações sobre os planetas e outros corpos celestes; ele busca instigar questionamentos, promover debates e estimular o pensamento crítico, permitindo que os participantes se tornem verdadeiros exploradores do conhecimento astronômico. Ao adotar uma perspectiva interativa e envolvente, espera-se que os alunos adquiram não apenas conhecimentos científicos fundamentais, mas também uma curiosidade duradoura e um apreço genuíno pelos mistérios do cosmos.**
+**This project aims to fill this gap in Brazilian education by offering an immersive and interactive learning experience through a digital game. The game does not merely transmit information about planets and other celestial bodies; it seeks to encourage questioning, promote discussion, and stimulate critical thinking, enabling participants to become true explorers of astronomical knowledge. By adopting an interactive and engaging perspective, it is expected that students will acquire not only fundamental scientific knowledge but also lasting curiosity and a genuine appreciation for the mysteries of the cosmos.**
 
-**Além disso, o projeto busca reforçar o investimento e o interesse na área da astronomia no Brasil, especialmente entre o público jovem. A gamificação permitirá a criação de um ambiente onde o aprendizado e o entretenimento andam de mãos dadas, promovendo a formação de futuras gerações de cientistas e pesquisadores.**
+**Furthermore, the project seeks to strengthen investment and interest in the field of astronomy in Brazil, especially among young audiences. Gamification will enable the creation of an environment where learning and entertainment go hand in hand, fostering the development of future generations of scientists and researchers.**
 
-## Ferramentas
+## Tools
 
- **Linguagens**: GML(Game Maker Language) <br>
- **Frameworks/Biblioteca**: GameMaker <br>
- **Ambiente de Desenvolvimento**: GameMaker, GitHub <br>
- **Outras Ferramentas**: PixilArt, Google Acadêmico, Youtube
+**Languages**: GML (Game Maker Language) <br>
+**Frameworks/Libraries**: GameMaker <br>
+**Development Environment**: GameMaker, GitHub <br>
+**Other Tools**: PixilArt, Google Scholar, YouTube
 
- ## Passos para Aplicação do Projeto
+## Steps to Use the Application
 
- 1.**Instalação**: Baixar o arquivo disponível no repositório [https://github.com/guiki8/SpaceGame/]<br>
- 2.**Executar**: Execute o arquivo baixado na sua pasta de downloads<br>
- 3.**Jogue**
+1. **Installation**: Download the file available in the repository [https://github.com/guiki8/SpaceGame/]<br>
+2. **Run**: Execute the downloaded file from your downloads folder<br>
+3. **Play**
 
- ## Histórico do Projeto
+## Project History
 
- O projeto ainda está em desenvolvimento, sua concepção inicial foi no final de agosto em 27/08/2024, então o grupo seguiu seu desenvolvimento como o protótipo e as partes mais essenciais do projeto feitas em 17/09/2024, entrando na segunda fase de desenvolvimento em 8/10/2024, no atual momento, 22/10/2024, o grupo ainda está desenvolvido mais áreas do projeto.
+The project is still under development. Its initial concept was created at the end of August on 27/08/2024. The group then continued development, completing the prototype and the most essential parts of the project on 17/09/2024. The second phase of development began on 08/10/2024. At the current moment, 22/10/2024, the group is still developing additional areas of the project.
 
- ## Fotos e Prints
+## Photos and Screenshots
 
-
- <img width="101" alt="character" src="https://github.com/user-attachments/assets/c54b540b-cd6c-4ff4-9485-92e3ce53db2d">
+<img width="101" alt="character" src="https://github.com/user-attachments/assets/c54b540b-cd6c-4ff4-9485-92e3ce53db2d">
 <img width="235" alt="space" src="https://github.com/user-attachments/assets/e5705160-1c39-4e53-8414-92e00573aac4">
 <img width="231" alt="space2" src="https://github.com/user-attachments/assets/1ebf0eec-7976-4eb1-b5f9-d2259c1af043">
 <img width="233" alt="marte" src="https://github.com/user-attachments/assets/78fdc6ca-2852-4b93-ac8e-68e224c78b29">
 
-## Conclusão
+## Conclusion
 
-O projeto **Explorando os Cosmos** tem se provado um método promissor e eficaz para trazer o interesse do público ao tópico 
-astronomia, nas feiras no qual o projeto já foi apresentado o projeto teve um feedback positivo e conseguiu atrair um público de diversas idades, além disso o grupo acredita que o projeto ainda pode ser aprimorada e se tornar mais cutomizável para ser utilizado em outras áreas do conhecimento.
+The project **Exploring the Cosmos** has proven to be a promising and effective method for increasing public interest in astronomy. At the fairs where the project has already been presented, it received positive feedback and attracted audiences of various ages. Additionally, the group believes the project can still be improved and made more customizable for use in other areas of knowledge.
 
-## Contato da Equipe
+## Team Contact
 
-Quaisquer dúvidas ou contribuições ao desenvolvimento do projeto podem ser enviadas aos emails dos membros do grupo citados na parte de integrantes.
+Any questions or contributions to the development of the project can be sent to the emails of the team members listed in the members section.
